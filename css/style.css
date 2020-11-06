@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 20px;
+    background: url(../img/dots-background-black-white-seamless-pattern_87543-1231.jpg);
+    background-size: 100%;
+
+}
+
+.card {
+    width: 550px;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 5px 10px #ccc;
+    padding: 20px;
+}
+
+.card-photo {
+    display: block;
+    height: 282px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 0 auto;
+}
+
+.card-title {
+    font-size: 30px;
+    text-align: center;
+    color: #3c2416fa;
+}
+
+.card-text {
+    font-size: 15px;
+
+}
+
